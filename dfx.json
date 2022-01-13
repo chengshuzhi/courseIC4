@@ -4,18 +4,9 @@
       "main": "src/microBlog/main.mo",
       "type": "motoko"
     },
-    "microBlog_assets": {
-      "dependencies": [
-        "microBlog"
-      ],
-      "frontend": {
-        "entrypoint": "src/microBlog_assets/src/index.html"
-      },
-      "source": [
-        "src/microBlog_assets/assets",
-        "dist/microBlog_assets/"
-      ],
-      "type": "assets"
+    "microBlog2": {
+      "main": "src/microBlog/main.mo",
+      "type": "motoko"
     }
   },
   "defaults": {
